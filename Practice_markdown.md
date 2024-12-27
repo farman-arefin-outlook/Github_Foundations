@@ -40,4 +40,29 @@ git clone https://github.com/farman-arefin-outlook/Github_Foundations.git
 
 ## Stashing
 
-## Mergin
+## Merging
+
+## Add
+
+When we want to stage changes that will be included in the commit . We can use the . to add all possible files.
+
+## Reset
+
+Reset allows you to move Staged changes to be unstaged. This is useful when you to revert all files not to be commited.
+
+```
+git add .
+git reset
+
+```
+
+> git reset will revert a git add.
+
+## Status
+
+Git status shows you what files will or will not be commited.
+
+```
+git status
+
+```

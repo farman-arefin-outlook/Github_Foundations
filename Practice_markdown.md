@@ -19,7 +19,9 @@ git commit -a -m "Add README.md
 
 ## Cloning
 
-We can clone in three ways: HTTPS,SSH,Github CLI
+We can clone in three ways: HTTPS,SSH,Github CLI 
+
+ssh and https
 
 ```sh
 mkdir /workspace/tmp
